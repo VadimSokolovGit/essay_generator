@@ -35,3 +35,9 @@ ENV/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Временные файлы и черновики
+scratch/
+
+# Вендоренный сторонний скилл (содержит собственный .git-репозиторий)
+.agents/skills/frontend-slides/
